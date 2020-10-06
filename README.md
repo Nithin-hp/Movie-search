@@ -1,2 +1,2 @@
 # Movie-search
-Website which displays the movie information
+website built using reactjs  which gives the infomation about the movies
