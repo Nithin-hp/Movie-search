@@ -1,5 +1,4 @@
 # Movie-search
-website built using reactjs  which gives the infomation about the movies
-
+React based website for search movies
 Live on-https://movies-search-nithinhp.netlify.app/
 
